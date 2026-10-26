@@ -1,0 +1,1 @@
+IN linechart.pbix coutains all different visulization dax formula slicer kpi and data cleaned in power query there are different datas each data vizulation is there in the file where as task5.pbix coutain interactive dashboard 
